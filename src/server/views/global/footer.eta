@@ -1,0 +1,13 @@
+<footer>
+	<nav id="foot-left">
+		<a href="/settings">Settings</a>
+		<a href="https://github.com/Wrapper-Offline/Wrapper-Offline/wiki" target="_blank">FAQ</a>
+		<a href="https://www.youtube.com/channel/UCuxn7bZI6ZSfN64PIO9NoIg">My Channel</a>
+                <a href="http://localhost:4343/cc?themeId=family&original_asset_id=53772341">Adam</a>
+                <a href="http://localhost:4343/cc?themeId=family&bs=adam">Adam (Old)</a>
+		<a href="https://www.youtube.com/channel/UC8UxPIT6vXrnwRCteunfcQQ">MTG 2nd YT Channel (Reupload's Channel</a>
+            <a href="">v8.0.5</a>
+	</nav>
+
+	<nav id="foot-right"></nav>
+</footer>
